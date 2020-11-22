@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "yukiesoeda.github.com",
+    "description": "",
+    "home_page_url": "https://yukiesoeda.github.io/yukiesoeda.github.com",
+    "feed_url": "https://yukiesoeda.github.io/yukiesoeda.github.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Yukie Soeda"
+    },
+    "items": [
+        {
+            "id": "https://yukiesoeda.github.io/yukiesoeda.github.com/test.html",
+            "url": "https://yukiesoeda.github.io/yukiesoeda.github.com/test.html",
+            "title": "test",
+            "summary": "I love traveling",
+            "content_html": "<p>I love traveling</p>",
+            "author": {
+                "name": "Yukie Soeda"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-22T15:51:28+09:00",
+            "date_modified": "2020-11-22T15:51:43+09:00"
+        }
+    ]
+}

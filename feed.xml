@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>yukiesoeda.github.com</title>
+    <link href="https://yukiesoeda.github.io/yukiesoeda.github.com/feed.xml" rel="self" />
+    <link href="https://yukiesoeda.github.io/yukiesoeda.github.com" />
+    <updated>2020-11-22T15:51:43+09:00</updated>
+    <author>
+        <name>Yukie Soeda</name>
+    </author>
+    <id>https://yukiesoeda.github.io/yukiesoeda.github.com</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Yukie Soeda</name>
+        </author>
+        <link href="https://yukiesoeda.github.io/yukiesoeda.github.com/test.html"/>
+        <id>https://yukiesoeda.github.io/yukiesoeda.github.com/test.html</id>
+
+        <updated>2020-11-22T15:51:43+09:00</updated>
+            <summary>
+                <![CDATA[
+                    I love traveling
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I love traveling</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

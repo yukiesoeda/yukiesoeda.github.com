@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yukiesoeda.github.io/yukiesoeda.github.com/sitemap.xml
